@@ -2,7 +2,7 @@
   - http://wilmabainbridge.com/facememorability2.html
   - Raw images.
 
-## 17Flowers:
+## 17 Flowers:
   - http://www.robots.ox.ac.uk/~vgg/data/flowers/17/
   - Raw images.
 
