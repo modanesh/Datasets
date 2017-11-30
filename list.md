@@ -6,6 +6,10 @@
   - http://www.robots.ox.ac.uk/~vgg/data/flowers/17/
   - Raw images.
 
-## Caltech Faces:
-  - http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/
+## Caltech Faces 1999:
+  - http://www.vision.caltech.edu/html-files/archive.html
   - Raw images.
+
+## Caltech Web Faces:
+  - http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/
+  - Raw images
