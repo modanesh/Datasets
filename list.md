@@ -12,4 +12,8 @@
 
 ## Caltech Web Faces:
   - http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/
-  - Raw images
+  - Raw images.
+
+## CIFAR 10:
+  - https://www.cs.toronto.edu/~kriz/cifar.html
+  - Data batches.
