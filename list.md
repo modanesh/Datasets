@@ -17,3 +17,7 @@
 ## CIFAR 10:
   - https://www.cs.toronto.edu/~kriz/cifar.html
   - Data batches.
+
+## FER 2013:
+  - https://github.com/npinto/fer2013
+  - CSV file.
