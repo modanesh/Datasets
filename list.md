@@ -21,3 +21,7 @@
 ## FER 2013:
   - https://github.com/npinto/fer2013
   - CSV file.
+
+## Flowers TensorFlow:
+  - http://download.tensorflow.org/example_images/flower_photos.tgz
+  - Zip file.
