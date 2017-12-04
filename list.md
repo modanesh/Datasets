@@ -25,3 +25,11 @@
 ## Flowers TensorFlow:
   - http://download.tensorflow.org/example_images/flower_photos.tgz
   - Zip file.
+
+## Hand Gesture:
+  - Created by me. Images of hand, consisting five classes:
+      - Fullhand
+      - L-pose
+      - Fist
+      - 1 finger
+      - Thumb
