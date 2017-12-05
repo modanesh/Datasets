@@ -38,3 +38,7 @@
   - Created by me. Images of hotdogs, and not_hotdogs(people, food, animals, etc.)
       - Around 3500 images of hotdogs.
       - Around 5500 images of not_hotdogs.
+      
+## IMDB Movie reviews sentiment:
+  - http://ai.stanford.edu/~amaas/data/sentiment/
+  - PKL file.
