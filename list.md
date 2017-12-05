@@ -33,3 +33,8 @@
       - Fist
       - 1 finger
       - Thumb
+
+## Hotdog/Not_Hotdog:
+  - Created by me. Images of hotdogs, and not_hotdogs(people, food, animals, etc.)
+      - Around 3500 images of hotdogs.
+      - Around 5500 images of not_hotdogs.
