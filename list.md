@@ -42,3 +42,7 @@
 ## IMDB Movie reviews sentiment:
   - http://ai.stanford.edu/~amaas/data/sentiment/
   - PKL file.
+
+## KITTI object detection:
+  - http://www.cvlibs.net/datasets/kitti/eval_object.php
+  - ZIP files.
