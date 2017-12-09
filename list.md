@@ -46,3 +46,7 @@
 ## KITTI object detection:
   - http://www.cvlibs.net/datasets/kitti/eval_object.php
   - ZIP files.
+  
+## MNIST:
+  - http://yann.lecun.com/exdb/mnist/
+  - TFRecord files.
