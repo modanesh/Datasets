@@ -50,3 +50,7 @@
 ## MNIST:
   - http://yann.lecun.com/exdb/mnist/
   - TFRecord files.
+
+## Oxford-IIIT Pet:
+  - http://www.robots.ox.ac.uk/~vgg/data/pets/
+  - Annotations + raw images.
