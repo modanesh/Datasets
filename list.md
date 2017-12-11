@@ -54,3 +54,7 @@
 ## Oxford-IIIT Pet:
   - http://www.robots.ox.ac.uk/~vgg/data/pets/
   - Annotations + raw images.
+
+## Pascal VOC:
+  - http://host.robots.ox.ac.uk/pascal/VOC/
+  - ZIP file.
